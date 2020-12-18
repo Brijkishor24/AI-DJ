@@ -1,0 +1,31 @@
+body{
+    background-size: cover;
+}
+.heading{
+   width:100%;
+   font-size:18px;
+   margin: 0px;
+}
+#speed_div{
+    float:left;
+}
+.div_speed_img,.div_volume_img{
+    width: 200px;
+    border-radius:100px;
+}
+#Speed,#Volume{
+    font-size: 24px;
+    margin-left: 20%;
+}
+#volume_div{
+    float:right;
+}
+#Play{
+    font-size:24px;
+    width:80px;
+}
+canvas{
+    border: 10px groove gold;
+    border-radius:50px;
+    box-shadow:5px 10px 15px gold;
+}
