@@ -20,7 +20,7 @@ body{
 #volume_div{
     float:right;
 }
-#Play{
+#Play,#Stop{
     font-size:24px;
     width:80px;
 }
